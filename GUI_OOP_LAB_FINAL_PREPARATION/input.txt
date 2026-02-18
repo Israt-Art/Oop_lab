@@ -1,0 +1,10 @@
+1,Apple,1.50
+2,Banana,0.75
+3,Orange,1.25
+4,Milk,2.00
+5,Bread,1075
+6,Egg,3.00
+7,Chicken,5.50
+8,Rice,2.20
+9,Butter,2.50
+10,Cheese,4.00
